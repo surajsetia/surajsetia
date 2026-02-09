@@ -1,7 +1,7 @@
-<h1>Hi, I'm Suraj Setia</h1>
+<h1>👋 Hi, I'm Suraj Setia</h1>
 
 <p>
-  I am a 3rd year Computer Science undergraduate with an interest in full stack web development.
+  🎓 I am a 3rd year Computer Science undergraduate with an interest in full stack web development.
   I have worked on academic, personal, and hackathon projects involving web technologies, APIs,
   and databases. I am currently looking for internship and entry-level software development opportunities.
 </p>
@@ -12,7 +12,7 @@
 
 <hr/>
 
-<h3>Education</h3>
+<h3>🎓 Education</h3>
 <p>
   <strong>Bachelor of Technology (Computer Science)</strong><br/>
   3rd Year Undergraduate, Chitkara University, India
@@ -20,7 +20,7 @@
 
 <hr/>
 
-<h3>Technical Skills</h3>
+<h3>🛠️ Technical Skills</h3>
 
 <p><strong>Frontend:</strong> HTML, CSS, JavaScript, React</p>
 <p><strong>Backend:</strong> Node.js, Express.js, REST APIs</p>
@@ -44,17 +44,17 @@
 
 <hr/>
 
-<h3>Projects</h3>
+<h3>📌 Projects</h3>
 <ul>
   <li><strong>Elira</strong> – Emergency and safety-focused web platform</li>
-  <li><strong>Chrome Extension</strong> – Live-deployed extension solving a real-world problem</li>
+  <li><strong>Explainify</strong> – Live-deployed extension solving a real-world problem</li>
   <li><strong>Vartalap</strong> – Web-based communication platform</li>
 </ul>
 
 <hr/>
 
-<h3>Contact</h3>
+<h3>📫 Contact</h3>
 <p>
-  Email: surajsetia1304@gmail.com <br/>
-  LinkedIn: <a href="https://www.linkedin.com/in/suraj-setia-6b747a2b6/">linkedin.com/in/suraj-setia</a>
+  📧 Email: surajsetia1304@gmail.com <br/>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/suraj-setia-6b747a2b6/">linkedin.com/in/suraj-setia</a>
 </p>
