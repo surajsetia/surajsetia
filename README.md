@@ -44,10 +44,11 @@
 
 <hr/>
 
-<h3>Projects & Hackathons</h3>
+<h3>Projects</h3>
 <ul>
-  <li>Built full stack web applications as part of academic and personal projects</li>
-  <li>Participated in hackathons, collaborating with teams to deliver working prototypes</li>
+  <li><strong>Elira</strong> – Emergency and safety-focused web platform</li>
+  <li><strong>Chrome Extension</strong> – Live-deployed extension solving a real-world problem</li>
+  <li><strong>Vartalap</strong> – Web-based communication platform</li>
 </ul>
 
 <hr/>
