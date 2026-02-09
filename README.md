@@ -1,71 +1,56 @@
 <h1 align="center">Hi 👋, I'm Suraj Setia</h1>
-<h3 align="center">3rd Year Computer Science Undergraduate | Aspiring Full Stack Developer</h3>
+<h3 align="center">3rd Year Computer Science Undergraduate | Full Stack Developer</h3>
 
 <p align="center">
-  Computer Science undergraduate with practical experience in developing full-stack web applications.
-  Interested in backend systems, RESTful APIs, and containerized application deployment.
+  Computer Science undergraduate with strong fundamentals in full-stack web development.
+  Experienced in designing, developing, and deploying API-driven applications with proper database integration.
+  Hands-on exposure to containerized development, version control, and collaborative engineering through projects and hackathons.
   Actively seeking internship and entry-level software development opportunities.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=surajsetia&label=Profile%20Views&color=0e75b6&style=flat" alt="surajsetia" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=surajsetia&theme=flat&margin-w=10" alt="surajsetia" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajsetia&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🎓 Education
-**Bachelor of Technology in Computer Science**  
-3rd Year Undergraduate  
-Chitkara University, India  
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
 
 ---
 
-### 💻 Technical Skills
-
-#### Frontend Development
-HTML • CSS • JavaScript • React  
-
-#### Backend Development
-Node.js • Express.js • RESTful APIs  
-
-#### Databases
-MongoDB • MySQL  
-
-#### DevOps & Tools
-Docker • Git • Linux • AWS • Postman • Figma  
-
----
-
-### 📌 Academic & Personal Projects
-- **Full Stack Web Applications** – Designed and developed applications featuring authentication, role-based access, and database integration.
-- **API-Driven Systems** – Implemented RESTful services with structured routing, validation, and error handling.
-- **Containerized Deployments** – Used Docker to containerize applications, ensuring consistency across development and deployment environments.
-- **Collaborative Development** – Worked in team-based projects using Git-based workflows and agile practices.
-
-*(Detailed implementations and documentation are available in the repositories.)*
+### 🏆 Projects & Hackathons
+- Developed end-to-end full-stack applications with authentication, REST APIs, and persistent storage  
+- Containerized applications using Docker to ensure consistency across environments  
+- Participated in hackathons, working in team-based settings to deliver functional solutions within strict timelines  
 
 ---
 
 ### 🎯 Career Objective
-To secure an internship or entry-level software development role where I can apply my technical skills, strengthen my understanding of scalable systems, and contribute to real-world engineering problems.
+To apply my technical skills in a real-world engineering environment, gain industry exposure, and grow as a software developer while contributing to scalable and maintainable systems.
 
 ---
 
 ### 📫 Contact
 - **Email:** surajsetia1304@gmail.com  
-- **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/suraj-setia-6b747a2b6/" target="_blank">
-    linkedin.com/in/suraj-setia
-  </a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/suraj-setia-6b747a2b6/" target="_blank">linkedin.com/in/suraj-setia</a>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/surajsetia/surajsetia/output/github-snake-dark.svg" alt="GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/surajsetia/surajsetia/output/github-snake-dark.svg" alt="GitHub activity graph" />
 </div>
